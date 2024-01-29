@@ -8,4 +8,4 @@
 **Level:** Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-**Photo:**  ![A photo of Isaias]()
+**Photo:**  ![A photo of Isaias](IMG_4616.JPG)  
