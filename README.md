@@ -7,4 +7,5 @@
 **University:** The University of Texas Arlington   
 **Level:** Freshman  
 **Position Title:** Student  
-**Course Webpage:** www.cdslab.org  
+**Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
+**Photo:**  ![A photo of Isaias]()
