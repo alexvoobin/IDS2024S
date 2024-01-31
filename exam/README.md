@@ -1,1 +1,1 @@
-This folder takes me to my EXAM folder.
+This folder contains my EXAMS.
