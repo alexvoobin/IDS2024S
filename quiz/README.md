@@ -1,1 +1,1 @@
-This folder is for my quiz
+This folder contains my quizs
