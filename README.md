@@ -7,7 +7,7 @@
 **University:** The University of Texas Arlington   
 **Level:** Freshman  
 **Position Title:** Student  
-**Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
+**Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)  
 **Photo:**  ![A photo of Isaias](IMG_4616.JPG)  
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:  
 + [homework](./hw): This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.  
