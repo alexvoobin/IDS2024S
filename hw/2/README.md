@@ -1,6 +1,6 @@
 1.   
 2. ENIAC stands for (Electronic Numerical Integrator And Computer)
-3.   
+3. Any value that a computer can represent exactly is going to be based, eventually, on integers  
 4. The fastest part of the computer memory is Cache memory.
 5. The slowest storage device in computers is Disk.  
 6. The smallest unit of information is A bit (Binary digit).  
@@ -14,12 +14,12 @@
 11. An ancestor programming language of C is B.  
 12. An ancestor programming language of C++ is C, Simula.  
 13. a programming language ancestor for MATLAB and Python are fortran and C.  
-14. *Syntax errors* ex-mistakes in grammer. *Runtime errors* ex-error during the execution of a program. *Logical errors*ex- undesired output or behavior.  
-15. 
+14. The fastest part of a memory is registers.  
+15. The smallest memory unit is a bit(binary digit).  
 16. 
-17. 
-18. 
-19. 
+17. It is one to two orders of magnitude slower.   
+18. It 
+19. The primary role of transistors are switches, letting current through to represent the binary digit 1, or cutting it off to represent 0.  
 20. 
 21. 
 22. 
