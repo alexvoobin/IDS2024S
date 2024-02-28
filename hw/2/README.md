@@ -1,4 +1,4 @@
-
+1.  ![Programming history chart](progLangChartPuzzle.pdf)     
 **both part 2&3** FORTRAN(1950s), lisp(1950s), Algol 58(1950s), Cobol(1950s), Basic(1960s), C(1970s), sh(1970s), C++(1980s), FORTRAN 90 ISO/IEC(1990s), Java(1990s), Python(1990s), JavaScript(1990s), C#(2000s).  
 2. ENIAC stands for (Electronic Numerical Integrator And Computer)
 3. Any value that a computer can represent exactly is going to be based, eventually, on integers  
