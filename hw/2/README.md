@@ -25,7 +25,7 @@
 22. Yes it can since CPU can execute more cycles per second, leading to faster processing of tasks. However, it's not the only factor that affects overall performance; other elements like the number of cores, cache size, and the CPU's architecture also impact the speed of your computer.
 23. The RAM's inefficiency in processing and quickly transferring data to the CPU causes a memory bottleneck.
 24. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller and MOSFET is equivalent.
-25. 1. 64  2. 2080  3.
+25. 1. 2080  2. 66,432  3. 9.47 pounds
 26. 1. 20,000,000,000,000,000,000  2. 9,223,372,036,854,780,000  3.      4. 1500 years
  
 
