@@ -16,11 +16,17 @@
 13. a programming language ancestor for MATLAB and Python are fortran and C.  
 14. The fastest part of a memory is registers.  
 15. The smallest memory unit is a bit(binary digit).  
-16. 
-17. It is one to two orders of magnitude slower.   
-18. It 
+16. RAM sits away from the processor (physically away). This makes data transfer to/from RAM slower.  
+17. It is one to two orders of magnitude slower.  
+18. RAM disk as compared to a Hard disk is typically up to 50 times faster for sequential reads and writes, and up to 200 times faster.  
 19. The primary role of transistors are switches, letting current through to represent the binary digit 1, or cutting it off to represent 0.  
-20. 
-21. 
-22. 
+20. There is the physical footprint of the device. Increasing chip wize would mean we'd quickly have chips that are too big to fit in our devices.  
+21. Three main stages: the fetch stage, the decode stage, and the execute stage.  
+22. Yes it can since CPU can execute more cycles per second, leading to faster processing of tasks. However, it's not the only factor that affects overall performance; other elements like the number of cores, cache size, and the CPU's architecture also impact the speed of your computer.
+23. The RAM's inefficiency in processing and quickly transferring data to the CPU causes a memory bottleneck.
+24. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller and MOSFET is equivalent.
+25. 1. 64  2. 2080  3.
+26. 1. 20,000,000,000,000,000,000  2. 9,223,372,036,854,780,000  3.      4. 1500 years
+ 
+
     
