@@ -28,4 +28,4 @@
 25. **(1.)** 2080   **(2.)** 66,432     **(3.)** 9.47 pounds
 26. **(1.)** 2^63 or 20,000,000,000,000,000,000  **(2.)** 2^64-1  **(3.)** 2.857142x10^15    **(4.)** 1500 years
 27. The three fundamental components of a turning-complete language are infinite random access memory, conditional execution, and some form of repeated execution.
-28. 
+28. Exponential behavior has a tendency to show off rapid initial adjustments accompanied through saturation, while Power Law behavior demonstrates more slow modifications with a steady price across exclusive scales. Plotting on logarithmic scales can help become aware of those behaviors more absolutely.
