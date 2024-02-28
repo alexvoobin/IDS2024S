@@ -22,11 +22,10 @@
 19. The primary role of transistors are switches, letting current through to represent the binary digit 1, or cutting it off to represent 0.  
 20. There is the physical footprint of the device. Increasing chip wize would mean we'd quickly have chips that are too big to fit in our devices.  
 21. Three main stages: the fetch stage, the decode stage, and the execute stage.  
-22. Yes it can since CPU can execute more cycles per second, leading to faster processing of tasks. However, it's not the only factor that affects overall performance; other elements like the number of cores, cache size, and the CPU's architecture also impact the speed of your computer.
-23. The RAM's inefficiency in processing and quickly transferring data to the CPU causes a memory bottleneck.
-24. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller and MOSFET is equivalent.
-25. 1. 2080  2. 66,432  3. 9.47 pounds
-26. 1. 20,000,000,000,000,000,000  2. 9,223,372,036,854,780,000  3.      4. 1500 years
- 
-
-    
+22. Yes it can since CPU can execute more cycles per second, leading to faster processing of tasks. However, it's not the only factor that affects overall performance; other elements like the number of cores, cache size, and the CPU's architecture also impact the speed of your computer.  
+23. The RAM's inefficiency in processing and quickly transferring data to the CPU causes a memory bottleneck.  
+24. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller and MOSFET is equivalent.  
+25. **(1.)** 2080   **(2.)** 66,432     **(3.)** 9.47 pounds
+26. **(1.)** 2^63 or 20,000,000,000,000,000,000  **(2.)** 2^64-1  **(3.)** 2.857142x10^15    **(4.)** 1500 years
+27. The three fundamental components of a turning-complete language are infinite random access memory, conditional execution, and some form of repeated execution.
+28. 
