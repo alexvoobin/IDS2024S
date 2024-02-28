@@ -1,4 +1,4 @@
-1. **Photo** ![A photo of my programming history chart](programminghistorychart.jpg)    
+1. **Photo**  ![A photo of my programming history chart](progLangChartPuzzle-IsaiasGamboa.pdf)    
 2. ENIAC stands for (Electronic Numerical Integrator And Computer)
 3. Any value that a computer can represent exactly is going to be based, eventually, on integers  
 4. The fastest part of the computer memory is Cache memory.
