@@ -3,6 +3,6 @@
 3. inductive reasoning and deductive reasoning.  
 4. Logical Implication: "If it is raining, then the ground is wet." Physical Causation: "The ground is wet because it rained."  
 5. If a person is seen crawling out of a jewelry store through a broken window carrying a bag of expensive jewelry, then that person is likely the burglar. (Logical implication: If A (seen crawling out of store with jewelry), then B (likely burglar).): If A (alarm ringing) and B (seen crawling out of store with jewelry), then C (likely burglar).)  
-6. ![Venn diagram](question6diagram.png)  
-7. The logical product (AB¯¯¯¯¯¯¯¯) shows the complement of the logical product of A and B, which means all elements outside the intersection of A and B. The shaded region represents the complement of the logical product AB, denoted as AB¯¯¯¯¯¯¯¯. As for Logical sum of the negations (A¯+B¯) it represents the logical sum (union) of the negations of A and B, which means all elements that are not in A or not in B. The shaded region represents the union of the negations of A and B, denoted as A¯+B¯. By comparing the two Venn diagrams, we can see that the shaded regions are identical. This demonstrates that the negation of a logical product (AB¯¯¯¯¯¯¯¯) is indeed equivalent to the logical sum of the negations (A¯+B¯).
+6. **Venn diagram** ![Venn diagram](question6diagram.png)  
+7. **Venn diagram** ![Venn diagram](question7diagram.png)  
 8. 
