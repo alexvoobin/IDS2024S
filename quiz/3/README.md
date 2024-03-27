@@ -13,4 +13,8 @@
 4 A is false and B is true. Then A→B is true because A is false and ¬B→¬A is true because ¬B is false.
 Hence (A⇒B)≡(¬B⇒¬A) holds true.L.H.S. and R.H.S. are logically equivalent.
 11. 1
-12. **Venn diagram** ![Venn diagram](quiz3q12.png)
+12. **Venn diagram** ![Venn diagram](quiz3q12.jpg)
+13. 1
+14. 1
+15. 1
+16. **truth table** ![truth table](quiz3q16.jpg)
