@@ -17,4 +17,4 @@ Hence (A⇒B)≡(¬B⇒¬A) holds true.L.H.S. and R.H.S. are logically equivalen
 13. 1
 14. 1
 15. 1
-16. **truth table** ![truth table](quiz3q16.jpg)
+16. **truth table** ![truth table](quiz3q16.png)
