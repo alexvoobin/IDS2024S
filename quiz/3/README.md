@@ -7,4 +7,10 @@
 7. **Venn diagram** ![Venn diagram](quiz3q7.png) 
 8. **Venn diagram** ![Venn diagram](quiz3q8.png)
 9. It gives the functional value true if both functional arguments have the same logical value, and false if they are different
-10. 
+10. 1 A,B are true. In this case A→B is true because true implies true is true. and ¬B→¬A is true because ¬B is false.
+2 A,B are false. Then ¬A,¬B are true so the same argument as above works.
+3 A is true but B is false. so A→B is false (as true implies false is false). Moreover ¬B→¬A is also false because ¬B is true and ¬A is false.
+4 A is false and B is true. Then A→B is true because A is false and ¬B→¬A is true because ¬B is false.
+Hence (A⇒B)≡(¬B⇒¬A) holds true.L.H.S. and R.H.S. are logically equivalent.
+11. 1
+12. **Venn diagram** ![Venn diagram](quiz3q12.png)
