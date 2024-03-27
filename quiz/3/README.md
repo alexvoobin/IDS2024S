@@ -18,3 +18,5 @@ Hence (A⇒B)≡(¬B⇒¬A) holds true.L.H.S. and R.H.S. are logically equivalen
 14. 1
 15. **Venn diagram** ![Venn diagram](question11fundamentallogical.png)
 16. **truth table** ![truth table](quiz3q16.png)
+17. w
+18. This quiz was very hard but I dont think it was fair just because of time we have to finish it.
