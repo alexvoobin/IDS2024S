@@ -6,5 +6,5 @@
 6. **Venn diagram** ![Venn diagram](question6diagram.png)  
 7. **Venn diagram** ![Venn diagram](question7diagram.png)  
 8. **Truth Table** ![Truth table](question8truthtable.png)  
-9.  **Truth Table** ![Truth table](question9truthtable.png)
-10.  
+9. **Truth Table** ![Truth table](question9truthtable.png)
+10. **Truth Table** ![Truth table](question10truthtable.png)
