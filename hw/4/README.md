@@ -1,6 +1,6 @@
 1. 2
 2. 2
-3. **Truth Table** ![Truth table](question8truthtable.png)  
+3. **logical implication** ![logical implication ](hw4q3answer.png)  
 4. 2
 5. 2
 6. 22
