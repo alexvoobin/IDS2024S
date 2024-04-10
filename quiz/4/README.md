@@ -1,6 +1,6 @@
 1. Classical, frequentist, bayesian, propensity  
-2. The bayesian probility
-3. The bayesian probility theory  
+2. The bayesian school  
+3. The bayesian probility/ inference theory  
 4. Bayesian probility  
 5. **Frequentist-** Ronald Fisher  **Bayesian-** Pierre Laplace  
 6. The range of probability values between 0 and 1 is both a necessity for the definition of probability to be meaningful and a convention that has been widely accepted and adopted in probability theory and statistics.  
