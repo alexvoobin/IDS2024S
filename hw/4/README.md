@@ -1,7 +1,7 @@
-1. 2
+1. The NAND operation is a combination of an AND followed by a NOT. It outputs true if any input is false. Symbolically, A NAND B is equivalent to ¬(A∧B). Similarly, the NOR operation is an OR followed by a NOT, outputting true only if both inputs are false. Symbolically, A NOR B is equivalent to ¬(A∨B). The NAND (NOT AND) and NOR (NOT OR) operations are logical gates used in digital circuits. A NAND gate outputs false only if all its inputs are true; otherwise, it outputs true. Mathematically, the NAND operation between two variables A and B can be expressed as ¬(A∧B), where ¬ denotes the NOT operation, and ∧ denotes the AND operation. Similarly, a NOR gate outputs true only if all its inputs are false. The NOR operation can be expressed as ¬(A∨B), where ∨ denotes the OR operation. It is crucial to ensure that logical expressions and equivalencies are stated correctly. In the realm of logical operations, precision is key, and as illustrated, even a small discrepancy can lead to significantly different outcomes.  
 2. 2
 3. **logical implication** ![logical implication ](hw4q3answer.png)  
-4. 2
-5. 2
-6. 22
-7. Degrees of plausibility are represented by real numbers, Qualitative correspondence with common sense, and Consistency.
+4. 2  
+5.   **truth table** ![truth table](hw4q5answerp1.png)   ![truth table](hw4q5answerp2.png)   ![truth table](hw4q5answerp3.png)  
+6. 
+7. Degrees of plausibility are represented by real numbers, Qualitative correspondence with common sense, and Consistency.  
