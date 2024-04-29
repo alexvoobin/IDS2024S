@@ -2,4 +2,5 @@
 2. Those that can represent continuous data and those that cannot.
 3. In addition to continuous and discrete numerical values, data can come in the form of discrete categories, in the form of dates or times. When data is numerical we also call it quantitative and when it is categorical we call it qualitative.
 4. Factors
-5. 
+5. **Ordered Data-** Quantitative Numerical **Unordered Data**- Quatitative Categorical
+6. 
