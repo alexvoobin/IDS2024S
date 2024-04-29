@@ -14,7 +14,7 @@
 14. i
 15. i
 16. i
-17. Classical Probability, Frequentist Probability, 
-18. i
-19. i
-20. i
+17. Classical Probability, Frequentist Probability, Bayesian Probability, and Axiomatic Probability.  
+18. In the linear regression regression the residuals will be higher than the quadratic regression, because regression line gets away from the data values in the end, While in quadratic regression residulas are not too far from the regression line. Therefore quadratic regression is a better fit. Linear regression predict around 0.9 degree celcius temperature anamoly. While quadratic regression predicts it around 3 degees celcius.  
+19. I see two living creatures, A frog and A type of fish underneath the frog opening its mouth.  
+20. I would move the first stick where 8 is to make it into a 9 and then move the stick to the 0 to make it an 8. so the equation would now be 9+3-4=8 which is true.  
