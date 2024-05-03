@@ -11,8 +11,8 @@
 11. **Qualitative color scale:** a means to distinguish discrete items or groups that do not have an intrinsic order, such as different countries on a map or different manufacturers of a certain product. **Color to represent data values:** Color can also be used to represent data values, such as income, temperature, or speed. **Diverging color scale:** need to visualize the deviation of data values in one of two directions relative to a neutral midpoint. **Color as a tool to highlight:** Color can also be an effective tool to highlight specific elements in the data. There may be specific categories or values in the dataset that carry key information about the story we want to tell, and we can strengthen the story by emphasizing the relevant figure elements to the reader.
 12. The visual starts before zero so its wrong.  
 13. The first color palettes would be more appropriate for effective visualization communications with humans mainly because red is a warm and vibrant color.
-14. i
-15. i
+14. 
+15. **Excel Table** ![Excel table](hw5question15.png)
 16. Nicholas Said it was okay to leave it like this since we did it in class and that I can't access the excel sheet. 
 17. P(A∣B) is represented by the ratio of the overlap area (A∩B) to the area of B. P(B∣A) is represented by the ratio of the overlap area (A∩B) to the area of A. The product of the areas of the circles (denominator) remains constant, while the ratio of the overlap area to the area of each circle (numerator) represents the conditional probabilities. Therefore, Bayes's rule holds true based on the Venn diagram representation
 18. Classical Probability, Frequentist Probability, Bayesian Probability, and Axiomatic Probability. 
