@@ -13,7 +13,7 @@
 13. The first color palettes would be more appropriate for effective visualization communications with humans mainly because red is a warm and vibrant color.
 14. i
 15. i
-16. i
+16. Nicholas Said it was okay to leave it like this since we did it in class and that I can't access the excel sheet. 
 17. P(A∣B) is represented by the ratio of the overlap area (A∩B) to the area of B. P(B∣A) is represented by the ratio of the overlap area (A∩B) to the area of A. The product of the areas of the circles (denominator) remains constant, while the ratio of the overlap area to the area of each circle (numerator) represents the conditional probabilities. Therefore, Bayes's rule holds true based on the Venn diagram representation
 18. Classical Probability, Frequentist Probability, Bayesian Probability, and Axiomatic Probability. 
 19. I see two living creatures, A frog and A type of fish underneath the frog opening its mouth.  
