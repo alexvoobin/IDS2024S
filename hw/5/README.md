@@ -1,7 +1,7 @@
 1. All data visualizations map data values into quantifiable features of the resulting graphic. Color, Size, Shape, Position, Line type, and Line width.  
 2. Those that can represent continuous data and those that cannot. discrete  
 3. In addition to continuous and discrete numerical values, data can come in the form of discrete categories, in the form of dates or times. When data is numerical we also call it quantitative and when it is categorical we call it qualitative.
-4. Factors
+4. Factors or categorical variables.
 5. **Ordered Data-** Quantitative Numerical ex- grades **Unordered Data**- Quatitative Categorical ex- others, greet letters, race, gender
 6. Month- Catergorical(Qualitative) Day- Discrete(Quantitative) Location- Categorical(Qualitative) Station ID- Categorical(Qualitative) Temperature- Continuous(Quantitative) 
 7. Cartesian coordinates
