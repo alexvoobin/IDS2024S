@@ -17,7 +17,7 @@ Physical Causation: In contrast, physical causation would involve identifying th
 12. Any value that a computer can represent exactly is going to be based, eventually, on integers.
 13. An ancestor programming language of C is B.
 14. The first high-level programming language in computer history is generally considered to be "FORTRAN".
-15. **Boolean algebra’s fundamental identities** ![Boolean algebra’s fundamental identities](question15final.JPG)
+15. **Boolean algebra’s fundamental identities** ![Boolean algebra’s fundamental identities](question15final.jpg)
 16. s
 17. Deductive reasoning involves drawing specific conclusions from general principles, rules, or premises. In deductive reasoning, if the premises are true, the conclusion is necessarily true. Deductive reasoning typically follows the form of syllogisms. Example: Premise 1: All humans are mortal. Premise 2: Socrates is a human. Conclusion: Therefore, Socrates is mortal.   
 Inductive reasoning involves making generalizations or predictions based on specific observations or evidence. In inductive reasoning, the conclusion is considered probable rather than certain, as it is based on the observed patterns or trends. Example: Observation 1: Every crow we have seen is black. Observation 2: Another crow we observe is also black. Conclusion: Therefore, all crows are black.
